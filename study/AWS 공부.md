@@ -29,9 +29,9 @@ google otp 를 이용해서 계정 보호함
 - 데이터 센터 투자 및 관리 비용 불필요
 
 #### 클라우드 서비스 모델
-- IaaS  
+- IaaS (Infrastructure as a Service)  
 IT 리소스에 대해 가장 높은 수준의 유연성과 관리제어를 제공 (대신 클라이언트가 하나하나 다 설정해줘야 하는 불편함 있음) 
-- PaaS  
+- PaaS (Platform as a Service)  
 기본 인프라를 관리할 필요 없어 애플리케이션 개발과 관리에 집중 가능
 기본적인 애플리케이션 제공
 - SaaS  
