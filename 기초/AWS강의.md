@@ -28,7 +28,7 @@ Red Hat, CentOS, Fedora Oracle, Ubuntu
 가상화 서버 = 예를 들어 서버 4개를 한개로 묶어서 만들어진 큰 서버
 클라우드 = 묶여진 가상화 서버 수만개를 묶으면 클라우드!
 ### 클라우드 종류
-1. 프레미스 : Data, Application, Server, OS, H/W
+1. 프레미스 : Data, Application, Server, OS, H/W (자체적으로 보유한 전산실에서 구축)
 2. Iaas :  Data, Application, Server, OS (처음부터 구축)
 3. Paas :  Data, Application ( 틀은 있고, 그 이후부터 구축 - 서버 필요 x, 어플리케이션만 구축)
 4. Saas :  Data (전부 다 구축되어있음 - 데이터만 관리 ex) mail 서비스)
