@@ -14,7 +14,7 @@ DB Server, Back-end, ETC.DBMS류
 #### L4  
 4계층의 스위치, 서버 살아있는지 health 체크 역할(즉, 정상 서버에만 requeset 토스)  
 서버 toss 방법 = Hash, Round
-#### 이중화 목적 *
+#### Server 이중화 목적 *
 1. High Available(HA) : 고 가용성(1번 서버가 죽어도 2번서버가 돌아가기 때문)  
 2. Load Balancing(LB) : 트래픽 분산
 ### 서버 종류
